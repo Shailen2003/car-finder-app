@@ -1,0 +1,75 @@
+[
+    {
+      "id": "1",
+      "name": "Toyota Corolla",
+      "brand": "Toyota",
+      "price": "20000",
+      "fuelType": "Petrol",
+      "seatingCapacity": "5",
+      "image": "/toyota-corolla.jpeg"
+    },
+    {
+      "id": "2",
+      "name": "Honda Civic",
+      "brand": "Honda",
+      "price": "22000",
+      "fuelType": "Diesel",
+      "seatingCapacity": "5",
+      "image": "/honda-civic.jpeg"
+    },
+    {
+      "id": "3",
+      "name": "Honda SUV",
+      "brand": "Honda",
+      "price": "25000",
+      "fuelType": "Diesel",
+      "seatingCapacity": "7",
+      "image": "/Honda-D-Concept.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Mahindra Thar",
+      "brand": "Mahindra",
+      "price": "30000",
+      "fuelType": "Diesel",
+      "seatingCapacity": "4",
+      "image": "/mahindra-thar.jpeg"
+    },
+    {
+      "id": "4",
+      "name": "XUV 700",
+      "brand": "Mahindra",
+      "price": "35000",
+      "fuelType": "Diesel",
+      "seatingCapacity": "7",
+      "image": "/XUV-700.jpg"
+    },
+    {
+      "id": "5",
+      "name": "Fortuner-static",
+      "brand": "Toyota",
+      "price": "60000",
+      "fuelType": "Diesel",
+      "seatingCapacity": "7",
+      "image": "/Fortuner-static.jpg"
+    },
+    {
+      "id": "6",
+      "name": "Audi Q7",
+      "brand": "Audi",
+      "price": "80000",
+      "fuelType": "Diesel",
+      "seatingCapacity": "5",
+      "image": "/audi.jpg"
+    },
+    {
+      "id": "7",
+      "name": "Rolls Royce",
+      "brand": "Rolls Royce",
+      "price": "200000",
+      "fuelType": "Diesel",
+      "seatingCapacity": "5",
+      "image": "/RR.jpg"
+    }
+  ]
+  
