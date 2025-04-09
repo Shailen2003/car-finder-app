@@ -3,7 +3,6 @@ import axios from 'axios';
 import Navbar from '../components/Navbar';
 import CarCard from '../components/CarCard';
 import Pagination from '../components/Pagination';
-import '../styles/globals.css';
 import 'tailwindcss/tailwind.css';
 import Footer from '../components/Footer';
 
